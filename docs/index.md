@@ -20,6 +20,6 @@ This documentation will help you to determine whether several events that are po
 
 This documentation will help you to understand how our computers works, what are the automatic scripts that we have, how to do maintenance, etc.
 
-### [Blackbird API](https://readthedocs.org/projects/blackbird/)
+### [Blackbird API](http://blackbird.readthedocs.org/en/latest/)
 
 This documentation lists all available APIs that you can call using Blackbird, the API for NUSSU commIT internal duty website
