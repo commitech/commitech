@@ -23,3 +23,9 @@ This documentation will help you to understand how our computers works, what are
 ### [Blackbird API](http://blackbird.readthedocs.org/en/latest/)
 
 This documentation lists all available APIs that you can call using Blackbird, the API for NUSSU commIT internal duty website
+
+## Internal to NUSSU commIT Technical Cell Head an Assistant Head
+
+### [Website Maintenance Documentation](http://commitechwebsite.readthedocs.org/en/latest/)
+
+This documentation will help you to understand how to manage the domain (including the payment) as well as the hosting (to login to cPanel), etc.
